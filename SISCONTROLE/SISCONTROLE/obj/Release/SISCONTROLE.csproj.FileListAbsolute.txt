@@ -1,0 +1,9 @@
+C:\Projetos\Josiel\SISCONTROLE\SISCONTROLE\bin\Release\dbcontrole.mdf
+C:\Projetos\Josiel\SISCONTROLE\SISCONTROLE\bin\Release\dbcontrole_log.ldf
+C:\Projetos\Josiel\SISCONTROLE\SISCONTROLE\bin\Release\SISCONTROLE.exe
+C:\Projetos\Josiel\SISCONTROLE\SISCONTROLE\bin\Release\SISCONTROLE.pdb
+C:\Projetos\Josiel\SISCONTROLE\SISCONTROLE\obj\Release\SISCONTROLE.frmClientes.resources
+C:\Projetos\Josiel\SISCONTROLE\SISCONTROLE\obj\Release\SISCONTROLE.Properties.Resources.resources
+C:\Projetos\Josiel\SISCONTROLE\SISCONTROLE\obj\Release\SISCONTROLE.csproj.GenerateResource.Cache
+C:\Projetos\Josiel\SISCONTROLE\SISCONTROLE\obj\Release\SISCONTROLE.exe
+C:\Projetos\Josiel\SISCONTROLE\SISCONTROLE\obj\Release\SISCONTROLE.pdb
